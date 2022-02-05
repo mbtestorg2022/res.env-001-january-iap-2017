@@ -28,9 +28,69 @@ This non-credit course has no prerequisites. Problem solvers of all backgrounds 
 Calendar
 --------
 
-| SES # | SESSION TYPES | TOPICS |
-| --- | --- | --- |
-| 1 | Lecture / discussion (2 hours) | Introduction to citizen / community science networks in operation, including Public Lab; future of community science for climate action. Discuss some relevant field examples. |
-| 2 | Makerspace Hands-on (4 hours) | Tools to visualize & verify: A mini-hackathon on data collection and data visualization, and a hands-on introduction to the tools for live data collection of methane gas leaks. Details on the history of natural gas infrastructure nationally and in Boston area. |
-| 3 | Field Hands-on (2 x 1.5 hours) | Methane leak "safari": A field trip to collect live data on methane leaks in the natural gas infrastructure, using a van equipped for mobile GPS-linked monitoring and a handheld probe for up-close investigation. |
-| 4 | Lecture / discussion (2 hours) | Discuss the ways data can inform public decision-making: Using citizen data in legal cases, and the challenges and promise of sustainability footprints. Debrief of methane leak data collected on the prior field trip.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+SESSION TYPES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture / discussion (2 hours)
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to citizen / community science networks in operation, including Public Lab; future of community science for climate action. Discuss some relevant field examples.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Makerspace Hands-on (4 hours)
+{{< tdclose >}}
+{{< tdopen >}}
+Tools to visualize & verify: A mini-hackathon on data collection and data visualization, and a hands-on introduction to the tools for live data collection of methane gas leaks. Details on the history of natural gas infrastructure nationally and in Boston area.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Field Hands-on (2 x 1.5 hours)
+{{< tdclose >}}
+{{< tdopen >}}
+Methane leak "safari": A field trip to collect live data on methane leaks in the natural gas infrastructure, using a van equipped for mobile GPS-linked monitoring and a handheld probe for up-close investigation.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture / discussion (2 hours)
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss the ways data can inform public decision-making: Using citizen data in legal cases, and the challenges and promise of sustainability footprints. Debrief of methane leak data collected on the prior field trip.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
