@@ -12,6 +12,7 @@ image_metadata:
     (SAFE).
   image-alt: Photo of person holding a small box with controls and display, and a
     small probe connected to the box with a coiled tube.
+parent_uid: 47d4b42a-d6c1-7b8f-5d91-d8855bfce784
 resourcetype: Image
 title: 1_hack_handheld.jpg
 uid: b3194aef-20e7-2e7c-6d1f-b592b33e88ae

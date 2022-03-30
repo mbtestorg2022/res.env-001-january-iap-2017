@@ -9,6 +9,7 @@ image_metadata:
   credit: Photo by MIT OpenCourseWare.
   image-alt: Photo of a paper flip chart, listing different variables that affect
     leak measurement and some ideas for how to solve the measurement problem.
+parent_uid: 47d4b42a-d6c1-7b8f-5d91-d8855bfce784
 resourcetype: Image
 title: 4_hack_chart.jpg
 uid: ee29a93b-b9d3-04ab-7d3a-86f178b6fede

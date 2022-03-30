@@ -13,6 +13,7 @@ image_metadata:
   image-alt: Photo of a paper flip chart drawing up underground pipe with leak, drilled
     hole into the ground some distance away, with purger going into hole and several
     variables listed.
+parent_uid: 47d4b42a-d6c1-7b8f-5d91-d8855bfce784
 resourcetype: Image
 title: 5_hack_diagram.jpg
 uid: 26e5f405-b840-3165-ce3d-a649c74e10fb

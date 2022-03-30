@@ -12,6 +12,7 @@ image_metadata:
     (SAFE).
   image-alt: Photo of a long  "T" shaped tool made of metal tubes, with a round analog
     dial display on the top piece.
+parent_uid: 47d4b42a-d6c1-7b8f-5d91-d8855bfce784
 resourcetype: Image
 title: 2_hack_purger.jpg
 uid: 5856a34c-f8ac-b97f-03e0-5fe17ec4c19b
